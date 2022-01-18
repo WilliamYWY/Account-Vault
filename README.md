@@ -8,7 +8,6 @@ __The main tools we used:__
 * sqlite  
 
 ## Version
-There are three versions     
 * [UI + sqlite file](https://github.com/WilliamYWY/Account-Vault/blob/master/AccountSYS_UIFILE_version.ipynb "link")  
   
 ## Password Security 
