@@ -15,3 +15,12 @@ To lower the risk that password might be stolen if the .db file or SQL being hac
   
 The _KEY_ will be generate _only_ once when you register your ultimate password.  
 __(Make sure to keep the key to decrypt the password you saved)__
+  
+## Functions:
+1. Add account:  
+    * Name the account
+    * Choose category (work, game, shop, study)
+    * Create _HIGHLY SECURED_ password
+  
+2. Update account  
+3. Delete account
